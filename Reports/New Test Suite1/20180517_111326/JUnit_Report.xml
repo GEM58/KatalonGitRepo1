@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="New Test Suite1" time="1" tests="0" failures="0" errors="2">
+   <testsuite name="New Test Suite1" tests="0" failures="0" errors="2" time="1" timestamp="2018-05-17 11:13:32" hostname="GREGSLAP-PC$ - GregsLap-PC.attlocal.net" id="Test Suites/New Test Suite1">
+      <properties>
+         <property name="deviceName" value=""/>
+         <property name="devicePlatform" value=""/>
+         <property name="logFolder" value="C:\\Users\\Gregs Lap\\Katalon Studio\\git\\KatalonGitRepo1\\Reports\\New Test Suite1\\20180517_111326"/>
+         <property name="logFiles" value="C:\\Users\\Gregs Lap\\Katalon Studio\\git\\KatalonGitRepo1\\Reports\\New Test Suite1\\20180517_111326\\execution0.log"/>
+         <property name="attachments" value=""/>
+         <property name="hostName" value="GREGSLAP-PC$ - GregsLap-PC.attlocal.net"/>
+         <property name="hostAddress" value="192.168.1.101"/>
+         <property name="os" value="Windows 10 64bit"/>
+         <property name="katalonVersion" value="5.4.1.1"/>
+      </properties>
+      <testcase name="Test Cases/Test 1 by Tom" classname="Test Cases/Test 1 by Tom" status="ERROR">
+         <error type="ERROR" message="Test Cases/Test 1 by Tom FAILED because (of) org.codehaus.groovy.control.MultipleCompilationErrorsException: startup failed:
+file:/C:/Users/Gregs%20Lap/Katalon%20Studio/git/KatalonGitRepo1/Scripts/Test%201%20by%20Tom/Script1526394813336.groovy: 20: unable to resolve class internal.GlobalVariable
+ @ line 20, column 1.
+   import internal.GlobalVariable as GlobalVariable
+   ^
+
+1 error
+"/>
+         <system-out><![CDATA[2018-05-17 11:13:33 - [TEST_CASE][ERROR] - Test Cases/Test 1 by Tom: Test Cases/Test 1 by Tom FAILED because (of) org.codehaus.groovy.control.MultipleCompilationErrorsException: startup failed:
+file:/C:/Users/Gregs%20Lap/Katalon%20Studio/git/KatalonGitRepo1/Scripts/Test%201%20by%20Tom/Script1526394813336.groovy: 20: unable to resolve class internal.GlobalVariable
+ @ line 20, column 1.
+   import internal.GlobalVariable as GlobalVariable
+   ^
+
+1 error]]></system-out>
+         <system-err><![CDATA[2018-05-17 11:13:33 - [TEST_CASE][ERROR] - Test Cases/Test 1 by Tom: Test Cases/Test 1 by Tom FAILED because (of) org.codehaus.groovy.control.MultipleCompilationErrorsException: startup failed:
+file:/C:/Users/Gregs%20Lap/Katalon%20Studio/git/KatalonGitRepo1/Scripts/Test%201%20by%20Tom/Script1526394813336.groovy: 20: unable to resolve class internal.GlobalVariable
+ @ line 20, column 1.
+   import internal.GlobalVariable as GlobalVariable
+   ^
+
+1 error]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/Test 2 by Kim" classname="Test Cases/Test 2 by Kim" status="ERROR">
+         <error type="ERROR" message="Test Cases/Test 2 by Kim FAILED because (of) org.codehaus.groovy.control.MultipleCompilationErrorsException: startup failed:
+file:/C:/Users/Gregs%20Lap/Katalon%20Studio/git/KatalonGitRepo1/Scripts/Test%202%20by%20Kim/Script1526400878684.groovy: 20: unable to resolve class internal.GlobalVariable
+ @ line 20, column 1.
+   import internal.GlobalVariable as GlobalVariable
+   ^
+
+1 error
+"/>
+         <system-out><![CDATA[2018-05-17 11:13:33 - [TEST_CASE][ERROR] - Test Cases/Test 2 by Kim: Test Cases/Test 2 by Kim FAILED because (of) org.codehaus.groovy.control.MultipleCompilationErrorsException: startup failed:
+file:/C:/Users/Gregs%20Lap/Katalon%20Studio/git/KatalonGitRepo1/Scripts/Test%202%20by%20Kim/Script1526400878684.groovy: 20: unable to resolve class internal.GlobalVariable
+ @ line 20, column 1.
+   import internal.GlobalVariable as GlobalVariable
+   ^
+
+1 error]]></system-out>
+         <system-err><![CDATA[2018-05-17 11:13:33 - [TEST_CASE][ERROR] - Test Cases/Test 2 by Kim: Test Cases/Test 2 by Kim FAILED because (of) org.codehaus.groovy.control.MultipleCompilationErrorsException: startup failed:
+file:/C:/Users/Gregs%20Lap/Katalon%20Studio/git/KatalonGitRepo1/Scripts/Test%202%20by%20Kim/Script1526400878684.groovy: 20: unable to resolve class internal.GlobalVariable
+ @ line 20, column 1.
+   import internal.GlobalVariable as GlobalVariable
+   ^
+
+1 error]]></system-err>
+      </testcase>
+      <system-out><![CDATA[2018-05-17 11:13:32 - [TEST_SUITE][ERROR] - New Test Suite1: Test Cases/Test 1 by Tom FAILED because (of) org.codehaus.groovy.control.MultipleCompilationErrorsException: startup failed:
+file:/C:/Users/Gregs%20Lap/Katalon%20Studio/git/KatalonGitRepo1/Scripts/Test%201%20by%20Tom/Script1526394813336.groovy: 20: unable to resolve class internal.GlobalVariable
+ @ line 20, column 1.
+   import internal.GlobalVariable as GlobalVariable
+   ^
+
+1 error]]></system-out>
+      <system-err><![CDATA[2018-05-17 11:13:32 - [TEST_SUITE][ERROR] - New Test Suite1: Test Cases/Test 1 by Tom FAILED because (of) org.codehaus.groovy.control.MultipleCompilationErrorsException: startup failed:
+file:/C:/Users/Gregs%20Lap/Katalon%20Studio/git/KatalonGitRepo1/Scripts/Test%201%20by%20Tom/Script1526394813336.groovy: 20: unable to resolve class internal.GlobalVariable
+ @ line 20, column 1.
+   import internal.GlobalVariable as GlobalVariable
+   ^
+
+1 error]]></system-err>
+   </testsuite>
+</testsuites>
