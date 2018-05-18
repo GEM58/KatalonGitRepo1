@@ -4,7 +4,7 @@
    <name>New Test Suite1</name>
    <tag></tag>
    <isRerun>false</isRerun>
-   <lastRun>2018-05-17T13:57:34</lastRun>
+   <lastRun>2018-05-18T12:05:39</lastRun>
    <mailRecipient>gregemuller@hotmail.com;</mailRecipient>
    <numberOfRerun>0</numberOfRerun>
    <pageLoadTimeout>30</pageLoadTimeout>
@@ -22,5 +22,11 @@
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
       <testCaseId>Test Cases/Test 2 by Kim</testCaseId>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>50025b91-c426-431a-94f8-e271ae1edd14</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Test 3 for grins</testCaseId>
    </testCaseLink>
 </TestSuiteEntity>
